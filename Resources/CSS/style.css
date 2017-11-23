@@ -127,3 +127,16 @@ p {
   padding: 10px;
   margin: 5px 20px;
 }
+
+#contact {
+  height: 200px;
+}
+
+h5 {
+  display: block;
+}
+
+footer {
+  text-align: left;
+  padding-left: 20px;
+}
