@@ -38,3 +38,61 @@ nav span {
 a {
   color:seashell;
 }
+
+div {
+  display: block;
+}
+
+.main {
+  padding-top: 70px;
+  opacity: 0.9;
+  width: 1200px;
+  margin: auto;
+}
+
+#mission {
+  height: 700px;
+  background-image: url(../images/img-mission-background.jpg);
+  padding-top: 70px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#mission .content {
+  margin: auto;
+  background-color: black;
+  width: 100%;
+}
+
+h2, h3, h4 {
+  padding: 10px;
+}
+
+#feattea {
+  height: 700px;
+  width: 1000px;
+  padding-top: 70px;
+  margin: auto;
+}
+
+.onetea {
+  padding: 5px
+}
+
+.onetea img {
+  height: 200px;
+  width: 300px;
+  display: block;
+  margin: 10px;
+}
+
+.item span {
+  display: block;
+  padding: 5px;
+  font-weight: bold;
+  text-align: center;
+}
